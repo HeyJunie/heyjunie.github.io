@@ -5,6 +5,7 @@ description: >
   이제서야 알게 되었습니다. 내가 가면 좋을 길
   인공지능에 관심을 갖고 데이터 사이언스 공부를 하는 중입니다.
 hide_description: true
+
 ---
 
 # About
