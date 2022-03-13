@@ -11,7 +11,7 @@ hide_description: true
 <!--author-->
 ***
 <center>
-<span style="font-size:170%;font-weight:bold"> 김현우
+<span style="font-size:170%;font-weight:bold"> 상혜준
 </span>
 </center>
 <center>MAJOR : AI EENGINEERING</center>
