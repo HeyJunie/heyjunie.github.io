@@ -15,16 +15,19 @@ hide_description: true
 <span style="font-size:170%;font-weight:bold"> 상혜준
 </span>
 </center>
-<center>MAJOR : AI EENGINEERING</center>
-<center>Korean University</center>
-<center>145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea</center>
+<center>MAJOR : Material Science and Engineering</center>
+<center>Seoul National University of Science and Technology</center>
+
 ## Personal Data
 ---
-> 1993.03.21 대한민국, 인천광역시, 부평구 출생> 연락처: sangjinju0321@gmail.com
+> 1993.03.21 대한민국, 인천광역시, 부평구 출생
+> 연락처: sangjinju0321@gmail.com
 > Github : [https://github.com/HeyJunie](https://github.com/HeyJunie) ## Education
 ---
+> Mar.2012 ~ Feb.2014 두원공과대학교
 > Mar.2015 ~ Feb.2022 서울과학기술대학교
 >
+> 기계과 (Machanical engineering)
 > 신소재공학과 (Material science and engineering)
 ## Research Interest
  
@@ -42,14 +45,14 @@ hide_description: true
 * **AI Mashroom Classificator App**
 ## Awards
 ---
-[***2020 년 공개 SW 개발자 대회(주최:과학기술정보통신부, 주관:정보통신산업진흥원)[PM] 2020***](https://www.youtube.com/watch?v=ah9MZQ0PjMI&t=60s)
-- [BRONZE PRIZE](https://blog.naver.com/khw11044/222152408161)</a>
+<!-- [***2020 년 공개 SW 개발자 대회(주최:과학기술정보통신부, 주관:정보통신산업진흥원)[PM] 2020***](https://www.youtube.com/watch?v=ah9MZQ0PjMI&t=60s)
+- [BRONZE PRIZE](https://blog.naver.com/khw11044/222152408161)</a> -->
 ## Work Experiences
 ---
--2020. 07 – 2020. 11
-Visual Object Tracking Using Plenoptic Image Sequences, Hansung Univ – ETRI[https://github.com/khw11044/PlenOpticVot_Siamfc_2020](https://github.com/khw1 1044/PlenOpticVot_Siamfc_2020)
+<!-- -2020. 07 – 2020. 11
+Visual Object Tracking Using Plenoptic Image Sequences, Hansung Univ – ETRI[https://github.com/khw11044/PlenOpticVot_Siamfc_2020](https://github.com/khw1 1044/PlenOpticVot_Siamfc_2020) -->
 ## Skills and Certification
 ---
 -Language : Python, Java
--FrameWork: Pytorch, Tensorflow(Keras)
+-FrameWork: Pytorch, Tensorflow(Keras), Spring
 -Certification : 
