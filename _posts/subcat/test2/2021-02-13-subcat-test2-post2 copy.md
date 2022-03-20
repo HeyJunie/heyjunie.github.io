@@ -17,7 +17,7 @@ categoies:
 
 # Subcat-Test2-post2
 
-What's New in Hydejack 9.1?
+Subcat-Test2-post2
 
 * toc
 {:toc}
