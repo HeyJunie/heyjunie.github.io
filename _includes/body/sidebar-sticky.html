@@ -1,6 +1,12 @@
 <div class="sidebar-sticky">
     <div class="sidebar-about" style="margin-bottom: 10px;">
 
+        <!--블로그타이틀-->
+        <div class="sidebartitle" style="margin-bottom: 95px;">
+           <a class="sidebar-title" href="{{ '/' | relative_url }}">
+               <h2 class="h1">{{ site.short_title | default:site.title }}</h2>
+           </a>
+       </div>
         
         <!--블로그프로필 이미지-->
         {% if site.logo %}
@@ -9,12 +15,6 @@
         </a>
         {% endif %}
     
-         <!--블로그타이틀-->
-         <div class="sidebartitle" style="margin-bottom: 95px;">
-            <a class="sidebar-title" href="{{ '/' | relative_url }}">
-                <h2 class="h1">{{ site.short_title | default:site.title }}</h2>
-            </a>
-        </div>
         <!--블로그 간단한 설명-->
         {% assign text = site.tagline | default:site.description %}
         {% if text %}
