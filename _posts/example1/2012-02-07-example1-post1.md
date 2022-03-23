@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example Content
+title: Example1-post1
 subtitle: 부제목 예시
 tags: 태그
 description: >
