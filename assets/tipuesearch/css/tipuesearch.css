@@ -47,7 +47,7 @@ http://www.tipue.com/search
      -webkit-appearance: none;
      box-shadow: none;
      outline: 0;
-     margin: 5;
+     margin: 0;
      text-align: center;		/* 텍스트 중간에 오게하기*/
 }
 
