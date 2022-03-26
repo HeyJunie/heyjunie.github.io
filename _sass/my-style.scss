@@ -23,6 +23,20 @@
   white-space: nowrap; // whitespace 는 스페이스와 탭, 줄바꿈, 자동줄바꿈을 어떻게 처리할지 정하는 속성, nowrap :병합
 }
 // for top-menu
+.nav-btn {
+  background: none;
+  border: none;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 3.25rem;
+  height: 3rem;
+  color: var(--menu-text);
+  border-right: 1px solid var(--border-color);
+  border-left: 1px solid var(--border-color);
+  margin-left: -1px;
+}
 .top-menu.nav-btn{
   border: none;
   display: inline-flex; // Flex 는 요소의 크기가 불분명하거나 동적인 경우에도, 각 요소를 정렬할 수 있는 효율적인 방법을 제공, Inline 특성의 Flex Container 를 정의
@@ -33,6 +47,7 @@
 // for search_bar
 .nav-btn-bar{
   height: 3rem;
+  margin-top: 2rem;
 }
 
 // profile avatar image
