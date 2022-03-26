@@ -7,7 +7,7 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
+  about:             
     안녕하세요, 인공지능에 관심을 갖고 시작한 블로그입니다.
     이제 늦었다고 망설이지 않고 꿈을 향해 나아가겠습니다.
 
