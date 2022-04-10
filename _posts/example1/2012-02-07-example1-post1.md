@@ -3,7 +3,7 @@ layout: post
 title: Example1-post1
 subtitle: 부제목 예시
 tags: 태그
-date: 2022-04-01
+datetime: 2022-04-01
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 sitemap: false
