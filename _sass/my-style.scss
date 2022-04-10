@@ -59,14 +59,42 @@
     text-decoration-color: rgb(218, 114, 199, 0.5);
 }
 
-.markdown-body > p > a {
-  font: bold !important;
-  color: rgb(3, 102, 214) !important;
+// 게시물 안에 링크 스타일
+.markdown-body > p > a{
+  font-weight: bold !important;
+  color: rgb(3,102,214) !important;
 }
 
-.markdown-body > ol > li > p > a {
-  font: bold !important;
-  color: rgb(3, 102, 214) !important;
+.markdown-body > li> p > a{
+  font-weight: bold !important;
+  color: rgb(3,102,214) !important;
+}
+
+
+.markdown-body >blockquote> p > a{
+  font-weight: bold !important;
+  color: rgb(3,102,214) !important;
+}
+
+// 링크 밑줄
+.content a:not(.btn):not(.no-hover) {
+  text-decoration-color: rgba(79,177,186,0.5);    // rgba(79,177,186,0.5)
+}
+
+// 코드 블럭
+code{
+  // background-color: #ffffe9;
+  background-color: rgb(251,232,201);
+  border-radius: 5px;
+}
+
+pre > code {
+  font-size: 1.1em !important;
+}
+
+.highlight {
+  color: rgb(201,201,201) !important;
+  background-color: rgb(21, 21, 21);
 }
 
 .markdown-body {
